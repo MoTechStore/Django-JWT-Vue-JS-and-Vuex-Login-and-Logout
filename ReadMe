@@ -1,0 +1,5 @@
+Install Node
+Install vue cli => npm install -g @vue/cli
+create a project => vue create frontend-app
+install axios => npm install axios
+Install boostrap => npm install boostrap
